@@ -1,0 +1,9 @@
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/pages/BasePage.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/pages/CarValuationPage.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/runners/TestRunner.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/stepdefinitions/CarValuationSteps.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/stepdefinitions/Hooks.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/utils/ConfigReader.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/utils/Driver.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/utils/InputReader.java
+/Users/jamesvarghese/IdeaProjects/car-valuation-test/src/test/java/utils/OutputChecker.java
